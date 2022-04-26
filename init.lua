@@ -9,5 +9,3 @@ require('rosepine')
 require('staline-config')
 require('treesitter-config')
 require('format-config')
-
-

@@ -17,6 +17,7 @@ return require('packer').startup(function()
 	use 'hrsh7th/nvim-cmp'
 	use 'hrsh7th/cmp-vsnip'
 	use 'hrsh7th/vim-vsnip'
+	use 'hrsh7th/vim-vsnip-integ'
 	use 'windwp/nvim-autopairs'
 	use 'norcalli/nvim-colorizer.lua'
 	use 'onsails/lspkind-nvim'
